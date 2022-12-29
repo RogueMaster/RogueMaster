@@ -1,4 +1,17 @@
-### Hi there 👋
+
+<p>
+  <h1 align="center"><b>Hello, I'm RogueMaster 👋</b></h1>
+</p>
+
+<a href='https://discord.gg/gF2bBUzAFe' >Discord</a> - <a href='https://www.patreon.com/RogueMaster'>Patreon</a>
+
+
+- 🔭 I’m currently working on <a href='https://www.patreon.com/RogueMaster'>RogueMaster Custom Firmware for the FlipperZero</a>
+- 
+- 📫 How to reach me: <a href='https://discord.gg/gF2bBUzAFe' >Discord</a> - <a href='https://www.patreon.com/RogueMaster'>Patreon</a>
+<br>
+
+
 
 <!--
 **RogueMaster/RogueMaster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
