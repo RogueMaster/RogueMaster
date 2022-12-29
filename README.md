@@ -7,7 +7,6 @@
 
 
 - 🔭 I’m currently working on <a href='https://www.patreon.com/RogueMaster'>RogueMaster Custom Firmware for the FlipperZero</a>
-- 
 - 📫 How to reach me: <a href='https://discord.gg/gF2bBUzAFe' >Discord</a> - <a href='https://www.patreon.com/RogueMaster'>Patreon</a>
 <br>
 
