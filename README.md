@@ -1,7 +1,8 @@
 
 <p>
-  <h1 align="center"><b>Hello, I'm RogueMaster 👋</b></h1>
+  <h1 align="center"><b>Hello, I'm <a href='https://rogue-master.net'><img src="https://rogue-master.net/img/rmlogo.png" width="40%"></a> 👋</b></h1>
 </p>
+
 
 <a href='https://discord.gg/gF2bBUzAFe' >Discord</a> - <a href='https://www.patreon.com/RogueMaster'>Patreon</a>
 
