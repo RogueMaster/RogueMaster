@@ -1,6 +1,6 @@
 
 <p>
-  <h1 align="center"><b>Hello, I'm <a href='https://rogue-master.net'><img src="[https://rogue-master.net/img/rmlogo.png](https://lh3.googleusercontent.com/d/1EqKVTt3clsfM8pFoZVfl4kPzm9oNqWkY)" width="40%"></a> 👋</b></h1>
+  <h1 align="center"><b>Hello, I'm <a href='https://rogue-master.net'><img src="https://lh3.googleusercontent.com/d/1EqKVTt3clsfM8pFoZVfl4kPzm9oNqWkY" width="40%"></a> 👋</b></h1>
 </p>
 <h1 align="center"><a href='https://discord.gg/gF2bBUzAFe' target='_blank'><img src='https://lh3.googleusercontent.com/d/1Ytf8DOQZuFhzWUL2Vm-TTPVrdwRt5wi-' alt='Discord' title='Discord'></a>
 &nbsp;<a href='https://github.com/RogueMaster/flipperzero-firmware-wPlugins/releases/latest' target='_blank'><img src='https://lh3.googleusercontent.com/d/1DvytrGJms7OaLDrYDA8hTawwqdoi5rDo' alt='Firmware GitHub' title='Firmware GitHub'></a>
